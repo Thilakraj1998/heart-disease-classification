@@ -1,0 +1,6 @@
+Data downloaded from UCI repository
+
+Repo link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+Info.txt link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/heart-disease.names
+data.txt link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+(Line 1 of data.txt is not in the source. Has been added post download.)
