@@ -18,6 +18,7 @@ The analysis consists of three parts in three different notebooks. Part 1 talks 
 
 ## Dependencies:
 Python 3.6
+
 Packages:
 - Modeling: pandas, numpy, sci-kit learn
 - Plotting: matplotlib, mlxtend
