@@ -17,8 +17,7 @@ The dataset has 14 predictors of heart disease, but we use only two of them for 
 The analysis consists of three parts in three different notebooks. Part 1 talks about preprocessing the data. Part 2 deals with the modeling procedure. Part 3 explains how to  deploy the models in a production.
 
 ## Dependencies:
-Python 3.6
-
+Python 3.6 <br />
 Packages:
 - Modeling: pandas, numpy, sci-kit learn
 - Plotting: matplotlib, mlxtend
