@@ -7,9 +7,9 @@ In this example, we will explore the use of machine learning to predict heart di
 
 
 ## Data
-The data is from the UCI Machine Learning Repository. The csv is available in the /raw-data folder, but if you want to download it from the source you can do so at: https://archive.ics.uci.edu/ml/datasets/Heart+Disease .There are multiple datasets available and we use the one processed by the Cleveland Clinic Foundation.
+The data is from the UCI Machine Learning Repository. The csv is available in the /raw-data folder, but if you want to download it from the source you can do so at: https://archive.ics.uci.edu/ml/datasets/Heart+Disease .There are multiple datasets available. We will only use the one processed by the Cleveland Clinic Foundation. More information about the dataset is available in raw-data/info.txt
 
-The dataset has 14 predictors of heart disease, but we use only two of them for the sake of simplicity - maximum heart rate achieved (thalach) and serum cholesterol levels (chol). A scatter plot of the training dataset is shown below (Fig 1).
+The dataset has 14 predictors of heart disease.  We will use only two of them for the sake of simplicity - maximum heart rate achieved (thalach) and serum cholesterol levels (chol). A scatter plot of the training dataset is shown below (Fig 1).
 
 ![scatter](images/eda.png)
 
