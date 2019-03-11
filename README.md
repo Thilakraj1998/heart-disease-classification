@@ -1,6 +1,6 @@
 ## Decision Trees
 
-In this example, we explore the use of machine learning to predict heart disease status. We will specifically look at various decision tree ensemble models. This exercise has two objectives:
+In this example, we will explore the use of machine learning to predict heart disease status. We will specifically look at various decision tree ensemble models. This exercise has two objectives:
 
 1. Learn more about decision trees and understand where to apply them. So we will restruct ourselves to decision trees.
 2. Learn how to deploy machine learning models in the field
